@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+.main {
+    width: 330px;
+    border: 03px solid black;
+    border-radius: 15px;
+    padding: 08px;
+
+}
+input{
+    background-color: transparent;
+    border: 0px;
+    outline: 0px;
+    width: 300px;
+}
